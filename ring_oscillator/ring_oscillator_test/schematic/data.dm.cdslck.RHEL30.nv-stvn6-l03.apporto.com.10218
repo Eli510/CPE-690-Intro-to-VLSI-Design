@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      eshtindl_stvn
+HostName                       nv-stvn6-l03.apporto.com
+ProcessIdentifier              10218
+ProcessCreationTime_UTC        1763253564
+ProcessCreationTime_Readable   Sun Nov 16 00:39:24 2025 UTC
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/eshtindl_stvn/Desktop/cadence/vlsi/Demo/inverter#2dring#2doscillator#2dtest/schematic/data.dm.cdslck
+TimeEditLocked                 Sun Nov 16 00:40:21 2025 UTC
